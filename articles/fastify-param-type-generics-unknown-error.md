@@ -30,8 +30,8 @@ app.get<{
 
 ```diff ts
 ("/test", async (
--    request: FastifyRequest, 
-+    request,
+-   request: FastifyRequest, 
++   request,
     reply: FastifyReply
 ) => {}
 ```
