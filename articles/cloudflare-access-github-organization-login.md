@@ -1,5 +1,5 @@
 ---
-title: "【Cloudflare Access/Cloudflare Zero Trust】GitHubのOrganization名で認証するときにハマった話"
+title: "【Cloudflare Access/Cloudflare Zero Trust】GitHubのOrg名で認証するときにハマった話"
 emoji: "🔥" # アイキャッチとして使われる絵文字（1文字だけ）
 type: "tech"
 topics: ["cloudflare", "cloudflare access"]
