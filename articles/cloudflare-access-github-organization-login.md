@@ -11,4 +11,4 @@ publication_name: "ablaze"
 
 # 結論
 
-認証時に使うGitHub OAuthの連携時にorgへのアクセスを許可していなかった
+認証時に使うGitHub OAuthの連携時にorgへのアクセスを許可していなかった。GitHub OAuthは連携時にorgへアクセスする場合はorgへのアクセスを別途選択しないといけない。そして、以前は自分だけで利用してたのでorgを選択していなかったため気づけなかった。
