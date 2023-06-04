@@ -13,7 +13,7 @@ VALORANTやってたら、歩きながらジャンプ(Ctrl+Space)できなくて
 
 PowerToysが原因だった。PowerToysの「プレビュー」のショートカットキーがCtrl+Spaceで重複していた。
 
-(他にもIMEとかが原因だったりすることもあるみたいが、多分最新のWindowsだと規定でCtrl+Spaceのショートカットは無効だった)
+(他にもIMEとかが原因だったりすることもあるみたいが、最新のWindows(多分)だと規定でCtrl+Spaceのショートカットは無効だった)
 
 ![PowerToys_Preview_File](https://storage.googleapis.com/zenn-user-upload/c518534daad5-20230604.png)
 
